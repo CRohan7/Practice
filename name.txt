@@ -1,6 +1,3 @@
 Chhtrapati Shivaji Maharaj !
-<<<<<<< HEAD
-Rohan Bharat Chavan Sohan Bharat Chavan
-=======
 
->>>>>>> sohan
+Rohan Bharat Chavan Sohan Bharat Chavan
